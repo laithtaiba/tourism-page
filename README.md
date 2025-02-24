@@ -1,16 +1,7 @@
-# tourism_page
+# travel booking app home screen using Flutter
 
-A new Flutter project.
+Developed a travel booking app home screen using Flutter and VS Code, featuring a user-friendly interface
+with destination categories, property listings, and a bottom navigation bar. 
+Implemented dynamic content display for properties and popular stays, enhancing user experience with seamless
+navigation and interactive design.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
